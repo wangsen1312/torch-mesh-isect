@@ -58,7 +58,7 @@ pip install -r requirements.txt
 ```
 **3. Run the *setup.py* script**
 ```Shell
-python setup.py install
+python setup.py install --user
 ```
 
 ## Examples
